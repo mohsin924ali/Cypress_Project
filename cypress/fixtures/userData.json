@@ -1,0 +1,14 @@
+{
+  "userDetails": {
+    "credential": {
+      "firstUsername": "standard_user",
+      "userPassword": "secret_sauce"
+    },
+
+    "userInfo": {
+      "firstName": "John",
+      "lastName": "Wick",
+      "zipCode": "12049"
+    }
+  }
+}

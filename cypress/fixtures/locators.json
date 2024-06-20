@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "loginPage": {
+      "userName": "[data-test='username']",
+      "password": "[data-test='password']",
+      "loginButton": "[data-test='login-button']"
+    },
+
+    "itemPage": {
+      "backPack": "[data-test='add-to-cart-sauce-labs-backpack']",
+      "bikeLight": "[data-test='add-to-cart-sauce-labs-bike-light']",
+      "shoppingCart": "[data-test='shopping-cart-link']",
+      "checkoutButton": "[data-test='checkout']",
+      "firstnameField": "[data-test='firstName']",
+      "lastnameField": "[data-test='lastName']",
+      "zipCodeField": "[data-test='postalCode']",
+      "continueButton": "[data-test='continue']",
+      "finishButton": "[data-test='finish']",
+      "sideMenu": "#react-burger-menu-btn",
+      "logoutButton": "[data-test='logout-sidebar-link']"
+    }
+  }
+}
